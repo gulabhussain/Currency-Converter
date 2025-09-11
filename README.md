@@ -16,7 +16,6 @@ It allows users to convert one currency into another using real-time exchange ra
 - Simple and user-friendly UI  
 - Dropdown menu with country flags & currency codes  
 - Responsive design (works on mobile & desktop)  
-- Dark/Light mode toggle 🌙☀️ *(if added)*  
 
 ---
 
